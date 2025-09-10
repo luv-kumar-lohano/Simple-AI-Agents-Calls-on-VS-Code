@@ -1,0 +1,21 @@
+# Environments & secrets
+.env
+.env.*
+!.env.example
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_convert
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.pytest_cache/
+pip-wheel-metadata/
+
+# OS
+.DS_Store
+Thumbs.db
