@@ -1,4 +1,4 @@
-# Agentic AI in Action — Deep Research in VS Code
+# How to make AI Agent Calls on VS Code
 
 This repo contains two cleaned-up Jupyter notebooks that showcase:
 
